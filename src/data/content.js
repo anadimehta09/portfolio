@@ -64,6 +64,15 @@ export const experiments = [
     link: 'https://ai-movie-recommender-82qif7stgo3war8nj78tsc.streamlit.app/',
     repo: 'https://github.com/anadimehta09/AI-Movie-Recommender',
   },
+  {
+  name: 'Vocalize AI',
+  summary: 'An AI-powered voice cloning application for personalized voice synthesis.',
+  description: 'Built an AI-based voice cloning application that adapts and synthesizes a user’s voice style from sample recordings to generate personalized speech output.',
+  stack: ['Python', 'Pandas', 'Scikit-learn', 'FastApi', 'React', 'HTML', 'CSS', 'JavaScript'],
+  metric: { label: 'Project Type', value: 'AI Voice Cloning' },
+  link: 'https://vocalize-ai-seven.vercel.app/',
+  repo: 'https://github.com/anadimehta09/Vocalize-ai',
+  },
 ]
 export const trainingLog = [
   {
