@@ -82,7 +82,7 @@ export const trainingLog = [
     checkpoint: 'v1',
     role: 'Freelance Web Developer',
     company: 'Ujjain Samachar',
-    period: '2025 — Present',
+    period: '2026 — Present',
     points: [
       'Designed and developed the official website for Ujjain Samachar, a local news organization',
       'Developed the website frontend and backend functionality based on the organization’s requirements',
